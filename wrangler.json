@@ -10,7 +10,7 @@
 		{
 			"binding": "D1",
 			"database_name": "spaced-backend",
-			"database_id": "611d4308-28af-437f-b5e8-ad12c77c209a",
+			"database_id": "2959d947-c2eb-459d-900f-f10cd144ff16",
 			"migrations_dir": "drizzle/migrations"
 		}
 	],
@@ -22,7 +22,7 @@
 	],
 	"vars": {
 		"WORKER_ENV": "production",
-		"FRONTEND_ORIGIN": "https://spaced2.zsheng.app"
+		"FRONTEND_ORIGIN": "https://spaced2-a41.pages.dev"
 	},
 	"env": {
 		"local": {
@@ -34,7 +34,7 @@
 				{
 					"binding": "D1",
 					"database_name": "spaced-backend",
-					"database_id": "611d4308-28af-437f-b5e8-ad12c77c209a",
+					"database_id": "2959d947-c2eb-459d-900f-f10cd144ff16",
 					"migrations_dir": "drizzle/migrations"
 				}
 			],
@@ -48,7 +48,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "api.spaced2.zsheng.app",
+			"pattern": "api.spaced2-a41.pages.dev",
 			"custom_domain": true
 		}
 	]

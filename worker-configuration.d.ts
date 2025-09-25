@@ -2,7 +2,7 @@
 
 interface Env {
 	WORKER_ENV: "production" | "local";
-	FRONTEND_ORIGIN: "https://spaced2.zsheng.app" | "http://localhost:5173";
+	FRONTEND_ORIGIN: "https://spaced2-a41.pages.dev" | "http://localhost:5173";
 	COOKIE_SECRET: string;
 	RESEND_API_KEY: string;
 	FILES_BUCKET: R2Bucket;
