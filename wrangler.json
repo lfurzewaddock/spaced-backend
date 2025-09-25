@@ -48,7 +48,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "api.spaced2-a41.pages.dev",
+			"pattern": "spaced-backend.leo-furze-waddock.workers.dev",
 			"custom_domain": true
 		}
 	]
